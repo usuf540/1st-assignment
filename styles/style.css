@@ -369,5 +369,94 @@ line-height: 48px;
 letter-spacing: 0%;
 text-align: left;
 }
+.input{
+  box-sizing: border-box;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+border: 1px solid rgba(233, 230, 230, 0.91);
+background: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+padding:20px 40px;
+width: 73%;
 
+}
+.other{
+  justify-content: center;
+  text-align: center;
+  margin-top: 32px;
+  align-items: center;
 
+}
+.bttn{
+  color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.1);
+border-radius: 8px;
+background: rgb(0, 106, 80);
+padding: 24px;
+margin-top: 32px;
+}
+.header1{
+  padding: 80px 100px;
+  border-radius: 24px;
+  background: rgb(198, 228, 214);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.hd-title{
+  color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 24px;
+}
+.subscribe{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.bttns{
+  padding: 18px 40px;
+  width: 600px;
+  height: 20px;
+  background: rgb(255, 255, 255);
+  /* border: 1px soid rgb(255, 255, 255); */
+  border-radius: 8px 0px 0px 8px;
+}
+.bttnss{
+  border-radius: 0px 8px 8px 0px;
+  color: rgb(255, 255, 255);
+  font-family: Fira Sans;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: left;
+  background: rgb(0, 106, 80);
+  height: 58px;
+  width: 158px;
+  gap: 0px;
+  padding: 17px 34px;
+
+}
+.footer{
+  justify-self: center;
+  align-items: center;
+}
