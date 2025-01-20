@@ -354,8 +354,23 @@ padding: 13px 26px;
   gap: 24px;
   margin-top: 32px;
   margin-bottom: 32px;
+  
 }
-.box{
+.box2{
+padding: 40px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(198, 228, 214);
+}
+.box1{
   box-sizing: border-box;
 border: 1px solid rgba(14, 14, 14, 0.15);
 border-radius: 16px;
@@ -369,6 +384,36 @@ line-height: 48px;
 letter-spacing: 0%;
 text-align: left;
 }
+.box3{
+  box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+padding: 40px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
+.box4{
+  box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+padding: 40px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+
 .input{
   box-sizing: border-box;
   text-align: center;
